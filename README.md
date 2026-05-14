@@ -2,7 +2,7 @@
 
 
 
-Repositório com os programas da disciplina de lógica de programação 
+Repositório com os programas da disciplina de lógica de programação
 
 
 
